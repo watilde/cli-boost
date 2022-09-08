@@ -1,6 +1,6 @@
 # cli-boost
 
-Includes frequently used libraries and type definitions to make CLI.😀
+Includes libraries frequently used and type definitions to make CLI.
 
 ## Installation
 
